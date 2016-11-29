@@ -2,9 +2,7 @@
 session_start();
 
 $accounts = array(
-	"hypothermianiggersareblack|4d028176be0d8722b2c2e2d331462b0aa7e9f77a",
-	"treydavisniggersareblack|a7527b61531d2e71ed0762299f28d584b265cc43",
-	"cole|48fb0e43aa53fe018403c42e8720630ef581f6e8"
+	"h|4d027a",
 	);
 $delpass = "7ca7c8ee051f97ad6cf6714d42d08b3ecb8146fa";
 
